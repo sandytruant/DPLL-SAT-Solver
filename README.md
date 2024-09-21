@@ -1,4 +1,4 @@
-# Simple SAT solver based on DPLL algorithm
+# SAT solver based on DPLL
 
 Usage:
 ```Bash
